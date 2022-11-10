@@ -2,5 +2,4 @@
 
 1. Ciudad Gótica
 2. Metrópolis
-3. Hell's Kitchen
-4. Pueblos Paleta
+3. Pueblos Paleta
